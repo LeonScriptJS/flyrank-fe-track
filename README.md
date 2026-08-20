@@ -18,3 +18,11 @@ This repository contains my work, exercises, projects, and experiments throughou
 ## Status
 
 🚧 Currently in development.
+
+## Repository Structure
+
+Intended layout for the FlyRank Frontend Development Track workspace:
+
+├── exercises/   # Learning exercises and experiments
+├── projects/    # Frontend projects built during the track
+└── README.md
